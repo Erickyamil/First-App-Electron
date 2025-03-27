@@ -1,0 +1,1 @@
+Este repositorio contiene los archivos referentes a mi primera aplicación en Electron construida en base al tutorial de su página oficial: https://www.electronjs.org/es/docs/latest/tutorial/tutorial-first-app
